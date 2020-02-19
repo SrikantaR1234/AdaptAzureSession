@@ -1,0 +1,2 @@
+# AdaptAzureSession
+AdaptAzureSession
